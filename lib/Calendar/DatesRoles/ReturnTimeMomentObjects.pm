@@ -76,4 +76,4 @@ objects instead.
 
 L<Calendar::Dates>
 
-L<Calendar::DatesRolse::ReturnDateTimeObjects>
+L<Calendar::DatesRoles::ReturnDateTimeObjects>
